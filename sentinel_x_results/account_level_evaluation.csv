@@ -1,0 +1,18 @@
+account_id,known_incident_account,candidate_alert_generated,evaluation_result
+ACC_0002,False,True,Additional candidate alert
+ACC_0003,True,True,Known incident account alerted
+ACC_0004,False,True,Additional candidate alert
+ACC_0005,False,True,Additional candidate alert
+ACC_0006,False,True,Additional candidate alert
+ACC_0007,True,True,Known incident account alerted
+ACC_0010,False,True,Additional candidate alert
+ACC_0011,False,True,Additional candidate alert
+ACC_0012,True,True,Known incident account alerted
+ACC_0013,False,True,Additional candidate alert
+ACC_0015,False,True,Additional candidate alert
+ACC_0016,False,True,Additional candidate alert
+ACC_0018,True,True,Known incident account alerted
+ACC_0019,False,True,Additional candidate alert
+ACC_0021,False,True,Additional candidate alert
+ACC_0022,False,True,Additional candidate alert
+ACC_0023,False,True,Additional candidate alert

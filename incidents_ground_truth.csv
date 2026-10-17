@@ -1,0 +1,5 @@
+incident_id,scenario_id,scenario_name,target_user,target_account,start_time,description
+INC-2026-001,SCN-ACCOUNT-TAKEOVER,Coordinated Credential Stuffing & High-Value Drain,USR_0003,ACC_0003,2026-10-17T02:00:00Z,"Failed logins followed by new device login, beneficiary addition, high-value transfer, and log export."
+INC-2026-002,SCN-API-EXFILTRATION,API Key Compromise & Bulk Resource Data Exfiltration,USR_0007,ACC_0007,2026-10-17T06:00:00Z,"Unusual API key usage, rapid 429 rate limit spikes, followed by bulk downloading of sensitive PDF documents."
+INC-2026-003,SCN-INSIDER-THREAT,Privilege Escalation & Malicious Beneficiary Transfer,USR_0012,ACC_0012,2026-10-17T12:00:00Z,"Late night/off-hours login, role elevation API request, multiple rapid micro-transactions, and session destruction."
+INC-2026-004,SCN-IMPOSSIBLE-TRAVEL,Geographic Anomaly & Rapid Resource Tampering,USR_0018,ACC_0018,2026-10-17T18:00:00Z,"Login from US-EAST followed 5 minutes later by login from AP-SOUTH, modified transaction settings, and resource deletion."

@@ -1,0 +1,5 @@
+incident_id,scenario,target_account,events_in_window,distinct_sources,positive_signal_events,signal_types
+INC-2026-001,Coordinated Credential Stuffing & High-Value Drain,ACC_0003,24,3,23,"AUDIT_LOG_EXPORT, HIGH_FAILED_LOGINS, HIGH_VALUE_OUTFLOW, NEW_BENEFICIARY_ADDED, NEW_DEVICE_AFTER_FAILURES"
+INC-2026-002,API Key Compromise & Bulk Resource Data Exfiltration,ACC_0007,122,2,120,"BULK_DATA_DOWNLOAD, RATE_LIMIT_EXCEEDED"
+INC-2026-003,Privilege Escalation & Malicious Beneficiary Transfer,ACC_0012,56,4,51,"ANOMALOUS_PATTERN, ISOLATED_ANOMALY"
+INC-2026-004,Geographic Anomaly & Rapid Resource Tampering,ACC_0018,54,4,50,ANOMALOUS_PATTERN

@@ -50,4 +50,3 @@ This is a rule-based prototype evaluated on synthetic data. Candidate alerts and
 - Perform rigorous incident-level evaluation
 - Integrate and validate additional detection modules
 - Explore trained machine-learning models where justified by the data
--
